@@ -1,0 +1,13 @@
+memo = "c64d8299c6eae3e3117076061359879695140237b41d3f7b8d78f256ab3607e3"
+
+[[projects]]
+  name = "github.com/mattn/go-sqlite3"
+  packages = ["."]
+  revision = "ca5e3819723d8eeaf170ad510e7da1d6d2e94a08"
+  version = "v1.2.0"
+
+[[projects]]
+  branch = "master"
+  name = "golang.org/x/net"
+  packages = ["context"]
+  revision = "f5079bd7f6f74e23c4d65efa0f4ce14cbd6a3c0f"
